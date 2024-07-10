@@ -1,6 +1,6 @@
 - 👋`Salut, je suis @tresor-del
-- 🌱 J'apprends le language Python et je suis à un niveau intermédiare 
-- 💞️ Je cherce des personnes qui pourront m'aider avec qui travailler et apprendre de nouvelles choses
+- 🌱 J'apprends de nouveaux languages et actuellement j'apprends Django 
+- 💞️ Je suis ouvert à toutes personnes 
 - 📫 Vous pouvez m'écrire sur tresoradzanto7@gmail.com
 
 
