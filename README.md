@@ -1,5 +1,5 @@
 - 👋`Salut, je suis @tresor-del
-- 🌱 J'apprends de nouveaux languages et actuellement j'apprends Django 
+- 🌱 Je suis dévéloppeur web 
 - 💞️ Je suis ouvert à toutes personnes 
 - 📫 Vous pouvez m'écrire sur tresoradzanto7@gmail.com
 
