@@ -14,8 +14,10 @@ I'm an IT student and technology enthusiast, deeply passionate about **Artificia
 
 ## Current Projects
 I'm currently working on:
-- [UrlShortener](https://github.com/tresor-del/urlshortener.git) - An URLs shortener app
-- [1-fstapi](https://github.com/tresor-del/urlshortener.git) - A basic fastapi app using docker ( this is for learning )
+
+- API developpement with fastapi
+- databases
+- docker
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations!
 
