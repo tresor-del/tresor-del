@@ -10,7 +10,7 @@ I'm an IT student and technology enthusiast, deeply passionate about **Artificia
 
 ##  Connect with me
 - Personal Website: [tresor-del.github.io](https://tresor-del.github.io)
-- LinkedIn: [Here](www.linkedin.com/in/trésor-adzanto-738147283)
+- LinkedIn: [Here](https://www.linkedin.com/in/trésor-adzanto-738147283)
 
 ## Current Projects
 I'm currently working on:
