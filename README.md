@@ -1,7 +1,7 @@
 # Hi ! I'm Trésor Adzanto
 
-💻 Computer science student
-🌱 Passionate about **AI, Web Development, and Security**
+- Computer science student
+- Passionate about **AI, Web Development, and Security**
 
 ---
 
