@@ -1,6 +1,4 @@
-# Hi ! I'm Trésor Adzanto
-
-CS student ! 
+I'm C.S. student ! 
 
 ---
 
